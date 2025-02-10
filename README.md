@@ -37,6 +37,10 @@ The goal is to compare multiple regression models and identify the one that prov
    + Comparing model performance
    + Selecting the best model based on accuracy and generalization capability
 
+## Notebook/Code
+
++ [`insurance.ipynb`](./insurance.ipynb)
+
 ## Technologies Used
 
 + Python (Jupyter Notebook)
